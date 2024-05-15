@@ -81,3 +81,9 @@
 ### 10. **Presentation**
 - Prepare a comprehensive report or presentation that includes the visualizations and key insights from the analysis.
 - Share the findings with stakeholders or use them for further detailed analysis.
+
+## Requirements and Versions
+#### Python Libraries:
+- **pandas**: 1.2.4
+- **numpy**: 1.20.2
+- **plotly**: 4.14.3
