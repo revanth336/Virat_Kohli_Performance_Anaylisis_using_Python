@@ -2,6 +2,7 @@
 # [Check out my colab file👈](https://colab.research.google.com/drive/1kZp52l6SArYRQsVQqd9-x3RVNO4z2XqF?usp=sharing)
  ## Abstract of the project:
  The project "Virat Kohli Performance Analysis using Python" aims to analyze the batting performance of the acclaimed Indian cricketer Virat Kohli in One Day Internationals (ODIs). Using Python and popular data analysis libraries, the project explores key aspects such as runs scored, balls faced, boundaries hit, strike rate, batting positions, dismissal types, opposition teams, and playing grounds. The methodology involves data cleaning, preprocessing, and visualization using Python libraries such as pandas, matplotlib, and Plotly. The project provides insightful visualizations and an in-depth analysis of Virat Kohli's performance, making it valuable for those interested in sports analytics and data science involving cricket statistics.
+ 
 ###Libraries Used in the project:
 1.pandas: import pandas as pd
 Used for data manipulation and analysis, including reading and cleaning the dataset.
