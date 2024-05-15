@@ -40,3 +40,44 @@
     - Generates a bar chart to show the runs scored against different teams.
 12. **px.scatter(data_frame=data, x="Runs", y="4s", size="SR", trendline="ols", title="Relationship Between Runs Scored and Fours")**
     - Creates a scatter plot with a trendline to explore the relationship between runs scored and the number of fours hit.
+
+## Step-by-Step Data Analytics Process
+
+### 1. **Data Collection**
+- The dataset contains all ODI matches played by Virat Kohli from August 18, 2008, to January 22, 2017.
+
+### 2. **Data Import**
+- Import necessary Python libraries (e.g., pandas, numpy, plotly) and load the dataset into a DataFrame.
+
+### 3. **Data Exploration**
+- Display the first few rows of the dataset to understand its structure and contents.
+- Check for null values to ensure data completeness.
+
+### 4. **Data Cleaning**
+- Handle any missing or erroneous data entries, if present.
+
+### 5. **Descriptive Statistics**
+- Calculate basic statistics such as total runs scored and average runs.
+
+### 6. **Data Transformation**
+- Map numerical values to categorical labels for better readability (e.g., batting positions).
+
+### 7. **Data Visualization**
+- **Total Runs Trend**: Plot a line chart showing the trend of runs scored over time.
+- **Batting Positions Analysis**: Create pie charts to visualize the number of matches played and runs scored at different batting positions.
+- **Century Analysis**: Plot bar charts to compare centuries scored in the first and second innings.
+- **Dismissal Types**: Use a pie chart to show the distribution of different dismissal types.
+- **Opposition Analysis**: Create bar charts to show runs scored and centuries against different opposition teams.
+- **Strike Rate Analysis**: Plot bar charts to compare strike rates in the first and second innings.
+- **Fours and Sixes Analysis**: Use scatter plots to examine the relationship between runs scored and the number of fours and sixes hit.
+
+### 8. **Insights and Interpretation**
+- Interpret visualizations to derive meaningful insights about Virat Kohli's performance trends, strengths, and areas for improvement.
+
+### 9. **Summary**
+- Summarize the findings and insights derived from the analysis.
+- Discuss the implications of the results for sports analytics and player performance evaluation.
+
+### 10. **Presentation**
+- Prepare a comprehensive report or presentation that includes the visualizations and key insights from the analysis.
+- Share the findings with stakeholders or use them for further detailed analysis.
